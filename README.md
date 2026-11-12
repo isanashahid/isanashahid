@@ -1,7 +1,7 @@
 <!-- Sana Shahid · GitHub profile. The banner is rendered from the sanashahid.me brand kit (Shantell Sans, Eureka / Pathfinder / Empower on Navy and Ivory). -->
 
 <p align="center">
-  <a href="https://sanashahid.me"><img src="./assets/hero.png" alt="Sana Shahid, Product Marketing Manager. 9 years in B2B SaaS, based in Berlin. I position and launch technical B2B SaaS products, and build the assets myself. Open to full-time roles in Berlin." width="100%"></a>
+  <a href="https://sanashahid.me"><img src="./assets/banner.png" alt="Hi, I'm Sana. AI marketer who ships the assets too." width="100%"></a>
 </p>
 
 <p align="center">
