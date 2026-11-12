@@ -1,183 +1,62 @@
-<div align="center">
+<!-- Sana Shahid · GitHub profile. Panels are rendered from the sanashahid.me brand kit (Shantell Sans, Eureka / Pathfinder / Empower on Navy and Ivory). -->
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Multi-hyphenate+Marketing+%26+Product+Leader;Strategic+GTM+Engine+%7C+Pattern+Recognizer;Turning+Chaos+Into+Clarity" alt="Typing SVG" />
-
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isanashahid&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  <a href="https://sanashahid.me"><img src="./assets/hero.png" alt="Sana Shahid, Product Marketing Manager. 9 years in B2B SaaS, based in Berlin. I position and launch technical B2B SaaS products, and build the assets myself. Open to full-time roles in Berlin." width="100%"></a>
 </p>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isanashahid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanashahid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
-</div>
-
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=isanashahid&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isanashahid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=6366F1" alt="GitHub Activity Graph" />
-</div>
-
-</div>
-
----
-
-## 👋 About Me
-
-<div align="center">
-
-**Strategic Operator | GTM Architect | Pattern Recognizer**
-
-I'm a multi-hyphenate marketing and product leader who operates like a **GTM engine**—naturally thinking in ICPs, personas, messaging, funnels, positioning, and adoption loops.
-
-I blend **narrative, psychology, and data** to create clarity from chaos, turning vague briefs into clean, workable strategies.
-
-</div>
-
----
-
-## 🎯 What I Do
-
-<div align="center">
-
-### Core Strengths
-
-| **Pattern Recognition** | **Clarity Creation** | **Writing & Messaging** |
-|:---:|:---:|:---:|
-| 🔍 See value instantly | ✨ Reorganize & simplify | ✍️ Crisp copy & storytelling |
-| 🎯 Identify friction points | 📊 Structure complex systems | 🎭 Persona-based messaging |
-| 💡 Understand customer needs | 🗺️ Build clear frameworks | 📧 Email & content strategy |
-
-</div>
-
----
-
-## 🛠️ Expertise & Skills
-
-### Marketing & Strategy
-<div align="center">
-
-![Product Marketing](https://img.shields.io/badge/Product%20Marketing-Expert-6366F1?style=for-the-badge&logo=product-hunt)
-![Growth Marketing](https://img.shields.io/badge/Growth%20Marketing-Expert-8B5CF6?style=for-the-badge&logo=chart-line)
-![GTM Strategy](https://img.shields.io/badge/GTM%20Strategy-Expert-7C3AED?style=for-the-badge&logo=rocket)
-![SEO & Demand Gen](https://img.shields.io/badge/SEO%20%26%20Demand%20Gen-Expert-A855F7?style=for-the-badge&logo=google)
-![AI Marketing Ops](https://img.shields.io/badge/AI%20Marketing%20Ops-Expert-C084FC?style=for-the-badge&logo=robot)
-
-</div>
-
-### Industries
-<div align="center">
-
-![B2B SaaS](https://img.shields.io/badge/B2B%20SaaS-Experienced-6366F1?style=flat-square&logo=cloud)
-![Hospitality Tech](https://img.shields.io/badge/Hospitality%20Tech-Experienced-8B5CF6?style=flat-square&logo=hotel)
-![Healthcare](https://img.shields.io/badge/Healthcare-Experienced-7C3AED?style=flat-square&logo=heart)
-![Fleet & Telematics](https://img.shields.io/badge/Fleet%20%26%20Telematics-Experienced-A855F7?style=flat-square&logo=truck)
-![Solar & Energy](https://img.shields.io/badge/Solar%20%26%20Energy-Experienced-C084FC?style=flat-square&logo=sun)
-![Creative Industries](https://img.shields.io/badge/Creative%20Industries-Experienced-D946EF?style=flat-square&logo=palette)
-
-</div>
-
-### Work Style
-<div align="center">
-
-**High-context • Analytical • Creative + Structured • Fast Learning • Process Thinker • User-centric**
-
-</div>
-
----
-
-## 💼 Professional Identity
-
-<div align="center">
-
-> **I'm not a "task executor."**  
-> I'm a **strategic operator** who asks the right questions, sees gaps, and fixes systems.
-
-</div>
-
-### What Sets Me Apart
-
-- 🧠 **Pattern Recognition**: Instantly identify where value is, where messaging breaks, and what customers really want
-- 🎨 **Clarity Creation**: Reorganize, restructure, and simplify complex systems—documentation, campaigns, funnels, GTM plans
-- ✍️ **Writing Superpower**: Exceptionally strong at crisp copy, persona-based messaging, storytelling, and brand tone design
-- 🏗️ **Zero-to-One Builder**: Thrive in building things from scratch—Democorder, SolutionPlus, Sky Ledge GTM
-- 💪 **Elite Work Ethic**: Show up, push through complexity, take ownership, do the hard thinking
-
----
-
-## 🎨 Operating Patterns
-
-<div align="center">
-
-| **I Prefer** | **Over** |
-|:---:|:---:|
-| Clarity | Fluff |
-| Directness | Corporate politeness |
-| Actionable | Theoretical |
-| Ownership | Delegation |
-| Human tone | Robotic messaging |
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-<div align="center">
-
-**Building • Learning • Growing**
-
-- 🎯 Becoming a senior product marketer/marketing strategist known for strong GTM execution
-- 🏗️ Building my own consultancy or SaaS startup
-- 📚 Creating thought leadership and personal brand
-- 💡 Achieving long-term financial stability and independence
-- 🌱 Getting life, health, and energy into a stable place
-
-**Long-term direction**: Entrepreneurial leadership — not employee mindset
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/isanashahid/isanashahid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=globe)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 "I get energized by big, messy, ambiguous problems."
-
-**High-potential • High-intelligence • High-depth thinker**
-
-*Building • Rebuilding • Refining • Sharpening*
-
-Made with ❤️ and strategic thinking
-
-</div>
-
+<p align="center">
+  <a href="https://sanashahid.me/portfolio"><img src="./assets/btn-work.png" alt="See the work" height="48"></a>&nbsp;
+  <a href="https://sanashahid.me/resume"><img src="./assets/btn-resume.png" alt="Résumé" height="48"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/isanashahid/"><img src="./assets/btn-linkedin.png" alt="LinkedIn" height="48"></a>&nbsp;
+  <a href="https://x.com/isanashahid"><img src="./assets/btn-x.png" alt="X" height="48"></a>&nbsp;
+  <a href="https://sanashahid.me/chat"><img src="./assets/btn-sayhi.png" alt="Say hi" height="48"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://sanashahid.me/portfolio"><img src="./assets/head-work.png" alt="The work. Portfolio, 5 case studies: launches, positioning and sales enablement for technical B2B products." width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://sanashahid.me/portfolio/trustyou-cdp"><img src="./assets/case-trustyou-cdp.png" alt="TrustYou CDP (B2B SaaS · Hospitality): €470K ARR the launch contributed to in six months. Read the case study." width="100%"></a>
+  <a href="https://sanashahid.me/portfolio/lexisnexis-iplytics"><img src="./assets/case-lexisnexis-iplytics.png" alt="LexisNexis IPlytics (B2B SaaS · LegalTech / IP): 3 product modules, each launched with its own go-to-market. Read the case study." width="100%"></a>
+  <a href="https://sanashahid.me/portfolio/invisible-edge"><img src="./assets/case-invisible-edge.png" alt="Invisible Edge (Coaching & advisory): 70+ masterclass registrations, 30–40 live attendees. Read the case study." width="100%"></a>
+  <a href="https://sanashahid.me/portfolio/acceo-smart-vendor-pos"><img src="./assets/case-acceo-smart-vendor-pos.png" alt="ACCEO Smart Vendor (B2B SaaS · Retail / POS): 85% of retailers finishing guided onboarding adopted an add-on. Read the case study." width="100%"></a>
+  <a href="https://sanashahid.me/portfolio/tcl-sunpower-catalog-2025"><img src="./assets/case-tcl-sunpower-catalog-2025.png" alt="TCL SunPower catalog (Renewable energy · B2B marketing): 3 weeks from kickoff to a print-ready catalog. Read the case study." width="100%"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://sanashahid.me/lab"><img src="./assets/head-lab.png" alt="The Lab. Six prototypes I built to test AI in marketing work, using Claude Code, MCP and n8n. Each has a sandbox you can try." width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://sanashahid.me/lab/agentic-campaign-ops"><img src="./assets/lab-agentic-campaign-ops.png" alt="Build 1: Agentic AI for campaign ops. Multi-agent brief, swarm, QA, handoff bundles. Open the build." width="100%"></a>
+  <a href="https://sanashahid.me/lab/prompt-library-marketing"><img src="./assets/lab-prompt-library-marketing.png" alt="Build 2: Prompt library for marketing workflows. Versioned prompt capsules with schema-checked inputs. Open the build." width="100%"></a>
+  <a href="https://sanashahid.me/lab/voc-automation-n8n"><img src="./assets/lab-voc-automation-n8n.png" alt="Build 3: Voice-of-customer automation (n8n). Ingest, classify, route, digest pipeline prototype. Open the build." width="100%"></a>
+  <a href="https://sanashahid.me/lab/gamified-marketing-funnel"><img src="./assets/lab-gamified-marketing-funnel.png" alt="Build 4: Gamified marketing funnel (vibe-coded). Progressive-disclosure lead journey prototype. Open the build." width="100%"></a>
+  <a href="https://sanashahid.me/lab/collateral-coherence-studio"><img src="./assets/lab-collateral-coherence-studio.png" alt="Build 5: Collateral coherence studio. Persona-clash QA ritual for sales enablement. Open the build." width="100%"></a>
+  <a href="https://sanashahid.me/lab/triple-room-module-composer"><img src="./assets/lab-triple-room-module-composer.png" alt="Build 6: Triple-room module composer. Capability kernel + analyst / exec / renewal narratives. Open the build." width="100%"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://sanashahid.me/notes"><img src="./assets/notes.png" alt="Lab Notes. Nine field notes on using AI in product marketing: what works, what I'm testing, and what broke. Topics: context engineering, prompt engineering, loop engineering, harness engineering." width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://sanashahid.me/chat"><img src="./assets/cta.png" alt="Hiring a product marketer who ships the assets too? I'm in Berlin and open to full-time roles. Tell me about the product and the launch. Message me." width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://sanashahid.me">sanashahid.me</a> ·
+  <a href="https://sanashahid.me/portfolio">Portfolio</a> ·
+  <a href="https://sanashahid.me/lab">The Lab</a> ·
+  <a href="https://sanashahid.me/notes">Lab Notes</a> ·
+  <a href="https://sanashahid.me/resume">Résumé</a> ·
+  <a href="https://www.linkedin.com/in/isanashahid/">LinkedIn</a> ·
+  <a href="https://x.com/isanashahid">X</a>
+</p>
